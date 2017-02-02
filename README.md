@@ -63,7 +63,7 @@ Bastta posicionar a sua viewport de forma ortogonal e vista superior e a região
 
 ## Extrudando ShapeFile de edificações do GeoSampa
 
-Os dados de edificações, assim como diversos outros dados podem ser baixados diretamente do site da [Prefeitura Municipal de São Paulo, atravéz do Geosampa]http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx
+Os dados de edificações, assim como diversos outros dados podem ser baixados diretamente do site da Prefeitura Municipal de São Paulo, através do [Geosampa]http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx
 Como os dados das edificações possuem a altura do edifício é possível extruda-los no momento da importação do ShapeFile
 
 ![video dos edificios extrudados](https://github.com/arquiteturalivre/maqueteurbana3d/blob/master/imagens/import_edificacoes_shp.gif?raw=true)
