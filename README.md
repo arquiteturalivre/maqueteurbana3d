@@ -33,7 +33,7 @@ Para instalar o complemento é necessário seguir o procedimento abaixo:
 Como complemento [Blender Gis](https://github.com/domlysz/BlenderGIS) instalado é possível importar Shapefiles de curvas de nível com a sua elevação em relação ao nível do mar
 [O arquivos usados aqui no exemplo podem ser baixados aqui](https://github.com/arquiteturalivre/maqueteurbana3d/tree/master/arquivos)
 
-[Video importar curvas de nivel com elevação]
+![Video importar curvas de nivel com elevação](https://github.com/arquiteturalivre/maqueteurbana3d/blob/master/imagens/curvas_de_nivel_com_elevacao.gif?raw=true)
 
 ## Gerando a mesh do terreno
 
