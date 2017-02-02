@@ -1,4 +1,4 @@
-![Maquete urbana 3d em poucos minutos com ferramentas livres]()
+![Maquete urbana 3d em poucos minutos com ferramentas livres](https://github.com/arquiteturalivre/maqueteurbana3d/blob/master/imagens/teaser.gif?raw=true)
 
 # Maquete urbana 3d em poucos minutos com ferramentas livres
 
