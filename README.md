@@ -26,7 +26,7 @@ Para instalar o complemento é necessário seguir o procedimento abaixo:
 4. Selecione o arquivo .zip que foi baixado e clique em "Instalar a partir do arquivo..."
 5. Clicando em "Salvar preferência do usuário" o seu complemento sempre estará ativo e esse procedimento não precisará ser realizado novamente
 
-[Video instalando o complemento]
+![Video instalando o complemento](http://i.giphy.com/l0Ex8HwtpA9M2LdwA.gif)
 
 ## Gerando o as curvas de nível com elevação
 
