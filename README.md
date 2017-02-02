@@ -37,29 +37,27 @@ Como complemento [Blender Gis](https://github.com/domlysz/BlenderGIS) instalado 
 
 ## Gerando a mesh do terreno
 
-Ainda é possivel a partir das curvas nas devidadas elevações criar uma mesh 3D com triangulação voronoy
+Ainda é possivel a partir das curvas, devidamente elevadas, criar uma mesh 3D com triangulação delaunay
 
-[Video da criação de mesh]
+![Video da criação de mesh](https://raw.githubusercontent.com/arquiteturalivre/maqueteurbana3d/master/imagens/criacao_de_mesh_triangulado.gif)
 
 ## Exportando a mesh to terreno
 
-[Video exportanto a mesh]
+![Video exportanto a mesh](https://raw.githubusercontent.com/arquiteturalivre/maqueteurbana3d/master/imagens/exportando_mesh.gif)
 
 ## OSM (Open Street MAP)
 
 [OSM ou Open Street Map](https://www.openstreetmap.org/about) é uma comunidade de mapeadores voluntária que provê informações ampeadas de maneira atualizadas e colaborativas.
 Vários mapas estão disponíveis no Blender, para localizar mais rapidamente o que procura e posicionar na tela basta apertar a tecla G.
 
-
-[Video OSM Blender]
+![Video OSM Blender](https://raw.githubusercontent.com/arquiteturalivre/maqueteurbana3d/master/imagens/osm.gif)
 
 ## Obtendo dados de edificações 3d OSM (Open Street MAP)
 
 Muitos desses dados, como por exemplo edificações em 3d, podem ser baixadas diretamente para o Blender.
 Bastta posicionar a sua viewport de forma ortogonal e vista superior e a região que está visualizando será importada como no vídeo a seguir.
 
-[Video OSM Blender]
-
+![Video OSM Blender](https://github.com/arquiteturalivre/maqueteurbana3d/blob/master/imagens/edificacoes_osm.gif?raw=true)
 
 ## Extrudando ShapeFile de edificações do GeoSampa
 
@@ -71,8 +69,6 @@ Como os dados das edificações possuem a altura do edifício é possível extru
 ## Exportando o modelo 3D
 
 É possível exportar o modelo 3d para diversos formatos compatível com outros softwares, mas pra que fazer isso se o Blender pode suprir suas demandas de maneira livre, segura e gratuita?
-
-[Video com opções de exportação]
 
 ## Próximos estudos
 
