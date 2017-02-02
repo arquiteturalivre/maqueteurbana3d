@@ -44,12 +44,21 @@ Ainda é possivel a partir das curvas nas devidadas elevações criar uma mesh 3
 
 [Video exportanto a mesh]
 
-## Obtendo dados de edificações 3d OSM (Open Street MAP)
+## OSM (Open Street MAP)
 
 [OSM ou Open Street Map](https://www.openstreetmap.org/about) é uma comunidade de mapeadores voluntária que provê informações ampeadas de maneira atualizadas e colaborativas.
-Muitos desses dados como, por exemplo, edificações em 3d podem ser baixadas diretamente para o Blender
+Vários mapas estão disponíveis no Blender, para localizar mais rapidamente o que procura e posicionar na tela basta apertar a tecla G.
+
 
 [Video OSM Blender]
+
+## Obtendo dados de edificações 3d OSM (Open Street MAP)
+
+Muitos desses dados, como por exemplo edificações em 3d, podem ser baixadas diretamente para o Blender.
+Bastta posicionar a sua viewport de forma ortogonal e vista superior e a região que está visualizando será importada como no vídeo a seguir.
+
+[Video OSM Blender]
+
 
 ## Extrudando ShapeFile de edificações do GeoSampa
 
