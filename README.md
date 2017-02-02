@@ -77,5 +77,9 @@ Como os dados das edificações possuem a altura do edifício é possível extru
 * Posicionar os edifícios sobre o terreno
 * Renderização da maquete
 
+## Esse tutorial é livre
+
+Portanto, fique a vontade para alterar, copiar, distribuir.
+
 
 
