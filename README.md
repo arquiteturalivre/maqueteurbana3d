@@ -72,10 +72,19 @@ Como os dados das edificações possuem a altura do edifício é possível extru
 
 É possível exportar o modelo 3d para diversos formatos compatível com outros softwares, mas pra que fazer isso se o Blender pode suprir suas demandas de maneira livre, segura e gratuita?
 
+## Posicionando os edifícios no terreno
+
+Depois dos edifícios serem importado para dentro do modelo ainda é preciso posiciona-los sobre o terreno.
+Isso pode ser feito de diversas maneiras, uma delas é utilizando um recurso de próprio Blender chamado de restrições.
+Para isso é necessário que cada edifício seja um objeto independente, portanto é necessário importar o shapefile das edificações com a opção de serparação de objetos.
+Para selecionar todos objetos ou desseleciona-los utilize a tecla de atalho 'A'. Para selecionar múltiplos objetos a tecla de atalho é 'B'
+
+![posicionando os edifícios no terreno](https://github.com/arquiteturalivre/maqueteurbana3d/blob/master/imagens/builds_on_ground_shp.gif?raw=true)
+
 ## Próximos estudos
 
-* Posicionar os edifícios sobre o terreno
 * Renderização da maquete
+* Preparação do modelo para corte a laser
 
 ## Esse tutorial é livre
 
